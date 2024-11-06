@@ -1,5 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import { AiOutlineHeart } from "react-icons/ai";
+import { PiShoppingCartLight } from "react-icons/pi";
 
 const Navbar = () => {
 
@@ -10,7 +12,7 @@ const Navbar = () => {
 
     </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar text-white bg-[#9538E2]">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -29,7 +31,7 @@ const Navbar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow gap-2">
+                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-2 w-52 p-2 shadow gap-2">
                         {links}
                     </ul>
                 </div>
@@ -43,8 +45,13 @@ const Navbar = () => {
                 </ul>
             </div>
 
-            <div className="navbar-end">
-                <a className="btn">Button</a>
+            <div className="navbar-end gap-4">
+                <div className='border rounded-full p-2 bg-white text-black'>
+                    <PiShoppingCartLight></PiShoppingCartLight>
+                </div>
+                <div className='border rounded-full p-2 bg-white text-black'>
+                    <AiOutlineHeart></AiOutlineHeart>
+                </div>
             </div>
         </div>
     );

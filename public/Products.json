@@ -1,0 +1,244 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://i.ibb.co.com/SvQXX1y/Applei-Phone15-Pro-Max.jpg",
+        "category": "Smartphones",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/3kx4DFS/Samsung-Galaxy-S23-Ultra.webp",
+        "category": "Smartphones",
+        "price": 1199,
+        "description": "The next generation Galaxy with an incredible camera and performance.",
+        "specification": [
+            "6.8-inch Dynamic AMOLED 2X display",
+            "Snapdragon 8 Gen 2",
+            "108MP quad-camera setup",
+            "5000mAh battery",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Sony WH-1000XM5 Wireless Headphones",
+        "product_image": "https://i.ibb.co.com/7Sjgsrm/Sony-WH-1000-XM5-Wireless-Headphones.jpg",
+        "category": "Headphones",
+        "price": 399,
+        "description": "Industry-leading noise cancellation for ultimate music immersion.",
+        "specification": [
+            "Active Noise Cancellation",
+            "30-hour battery life",
+            "High-Resolution Audio",
+            "Bluetooth 5.2"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P004",
+        "product_title": "Dell XPS 15 Laptop",
+        "product_image": "https://i.ibb.co.com/m0wKCVf/Dell-XPS15-Laptop.jpg",
+        "category": "Laptops",
+        "price": 1599,
+        "description": "High-performance laptop with a stunning 4K display.",
+        "specification": [
+            "15.6-inch 4K UHD display",
+            "Intel i9 11th Gen Processor",
+            "32GB RAM",
+            "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Apple iPad Pro 12.9-inch",
+        "product_image": "https://i.ibb.co.com/CPvcfn3/Applei-Pad-Pro12-9-inch-jpg.webp",
+        "category": "Tablets",
+        "price": 1099,
+        "description": "The ultimate iPad experience with a powerful M1 chip.",
+        "specification": [
+            "12.9-inch Liquid Retina XDR display",
+            "Apple M1 chip",
+            "128GB to 2TB storage options",
+            "Supports Apple Pencil 2"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P006",
+        "product_title": "GoPro HERO11 Black",
+        "product_image": "https://i.ibb.co.com/M6BtFRy/Go-Pro-HERO11-Black.webp",
+        "category": "Cameras",
+        "price": 499,
+        "description": "The latest action camera with improved stabilization and video quality.",
+        "specification": [
+            "5.3K60 video resolution",
+            "23MP photos",
+            "Waterproof up to 10m",
+            "Hypersmooth 4.0 stabilization"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Bose QuietComfort Earbuds II",
+        "product_image": "https://i.ibb.co.com/YyPrXSP/Bose-Quiet-Comfort-Earbuds-I.webp",
+        "category": "Earbuds",
+        "price": 279,
+        "description": "Premium earbuds with world-class noise cancellation.",
+        "specification": [
+            "Active Noise Cancellation",
+            "6-hour battery life",
+            "Bluetooth 5.1",
+            "Water and sweat resistant"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Fitbit Charge 5",
+        "product_image": "https://i.ibb.co.com/9wfqPTW/Fitbit-Charge-5.jpg",
+        "category": "Wearables",
+        "price": 149,
+        "description": "Advanced fitness tracker with heart rate monitoring and GPS.",
+        "specification": [
+            "AMOLED display",
+            "Built-in GPS",
+            "Heart rate and sleep tracking",
+            "Up to 7 days of battery life"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P009",
+        "product_title": "Canon EOS R6 Mirrorless Camera",
+        "product_image": "https://i.ibb.co.com/RB55J8g/Canon-EOS-R6-Mirrorless-Camera.jpg",
+        "category": "Cameras",
+        "price": 2499,
+        "description": "A powerful full-frame camera for photography enthusiasts.",
+        "specification": [
+            "20.1MP CMOS sensor",
+            "4K60 video",
+            "Dual Pixel AF",
+            "In-body stabilization"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P010",
+        "product_title": "Nintendo Switch OLED Model",
+        "product_image": "https://i.ibb.co.com/SNv02Nq/Nintendo-Switch-OLED-Model.jpg",
+        "category": "Gaming Consoles",
+        "price": 349,
+        "description": "Experience gaming with a larger, vibrant OLED screen.",
+        "specification": [
+            "7-inch OLED display",
+            "64GB internal storage",
+            "Enhanced audio",
+            "Supports all Switch games"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P011",
+        "product_title": "Apple MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/twfCzS2/Apple-Mac-Book-Air-M2.jpg",
+        "category": "Laptops",
+        "price": 1199,
+        "description": "The ultra-light and powerful MacBook Air with M2 chip.",
+        "specification": [
+            "13.6-inch Retina display",
+            "Apple M2 chip",
+            "8GB RAM, 256GB SSD",
+            "18-hour battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P012",
+        "product_title": "Sony PlayStation 5 Console",
+        "product_image": "https://i.ibb.co.com/QQvvhqT/Sony-Play-Station-5-Console.webp",
+        "category": "Gaming Consoles",
+        "price": 499,
+        "description": "Next-gen gaming console with lightning-fast load times.",
+        "specification": [
+            "8-core AMD Zen 2 CPU",
+            "825GB SSD",
+            "4K graphics",
+            "Supports backward compatibility"
+        ],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P013",
+        "product_title": "KitchenAid Artisan Stand Mixer",
+        "product_image": "https://i.ibb.co.com/P9z17XC/Kitchen-Aid-Artisan-Stand-Mixer.jpg",
+        "category": "Kitchen Appliances",
+        "price": 379,
+        "description": "Versatile stand mixer with a variety of attachments.",
+        "specification": [
+            "5-quart stainless steel bowl",
+            "10-speed control",
+            "Multiple attachments available",
+            "Tilt-head design"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P014",
+        "product_title": "Dyson V11 Cordless Vacuum Cleaner",
+        "product_image": "https://i.ibb.co.com/87ctPgg/Dyson-V11-Cordless-Vacuum-Cleaner.webp",
+        "category": "Home Appliances",
+        "price": 599,
+        "description": "Powerful cordless vacuum with dynamic load sensor technology.",
+        "specification": [
+            "High Torque cleaner head",
+            "Up to 60 minutes run time",
+            "Advanced whole-machine filtration",
+            "LCD screen displays runtime"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P015",
+        "product_title": "Instant Pot Duo 7-in-1",
+        "product_image": "https://i.ibb.co.com/C5cJxfh/Instant-Pot-Duo-7-in-1.jpg",
+        "category": "Kitchen Appliances",
+        "price": 89,
+        "description": "Multi-functional cooker: pressure cooker, slow cooker, rice cooker, steamer, sauté, yogurt maker, warmer.",
+        "specification": [
+            "6-quart capacity",
+            "14 smart programs",
+            "Stainless steel cooking pot",
+            "Easy-to-use control panel"
+        ],
+        "availability": true,
+        "rating": 4.5
+    }
+]
